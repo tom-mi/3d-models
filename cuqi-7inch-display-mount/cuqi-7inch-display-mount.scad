@@ -1,9 +1,8 @@
-mount_height = 200;
+mount_height = 220;
 mount_width = 50;
-mount_width = 5;
-base_depth = 50;
-angle = 15;
-back_plate_thickness = 3;
+base_depth = 80;
+angle = 30;
+back_plate_thickness = 1;
 corner_radius = 1;
 mount_d1 = 3.5 + 2 * corner_radius;
 mount_d2 = 3;
@@ -24,16 +23,22 @@ p3e = [p3[0] - $epsilon, p3[1] + $epsilon];
 p4 = [p3[0] + mount_d1 * sin(angle), p3[1] - mount_d1 * cos(angle)];
 p4e = [p4[0] - $epsilon, p4[1] - $epsilon];
 p5 = [p4[0] + mount_d2 * cos(angle), p4[1] + mount_d2 * sin(angle)];
+p6 = [-base_depth * 0.2 * sin(angle), base_depth * 0.2 * cos(angle)];
 
 
 
 module back_plate() {
     minkowski() {
         linear_extrude(back_plate_thickness) {
-            polygon(points = [p1, p2, p3]);
+            polygon(points = [p1, p2, p6, p3]);
         };
         cylinder(r = corner_radius, h = $epsilon, center = true);
     }
+};
+module front_plate() {
+  translate([0, 0, mount_width]) {
+      back_plate();
+  };
 };
 
 module mount() {
@@ -58,7 +63,7 @@ module back_plate_holes() {
     translate([0, base_depth - hole_offset, hole_offset + back_plate_thickness]) {
         back_plate_hole();
     };
-    translate([0, hole_offset, base_depth - hole_offset]) {
+    translate([0, hole_offset, mount_width - hole_offset]) {
         back_plate_hole();
     };
     translate([0, base_depth - hole_offset, mount_width - hole_offset]) {
@@ -66,11 +71,12 @@ module back_plate_holes() {
     };
 };
 
-//difference() {
-//    union() {
-//        back_plate();
-//        mount();
-//    };
-//    back_plate_holes();
-//};
-mount();
+difference() {
+    union() {
+        back_plate();
+        front_plate();
+        mount();
+    };
+    back_plate_holes();
+};
+
