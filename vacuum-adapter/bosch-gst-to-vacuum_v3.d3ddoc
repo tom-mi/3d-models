@@ -1,0 +1,1138 @@
+{
+    "constraints": {
+        "02a554ad-f66a-4d46-beff-2e3445607a8b": {
+            "entity1": {
+                "entity": "8b7d8a39-5db3-4562-b23e-052fca76ee1d",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "d820ad83-08b3-45e8-94be-b46196f00494",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "08d683c2-2e34-4caf-bc46-3fa48136fd21": {
+            "entity1": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "3d00050c-4de5-451d-84d2-be3cbf36d33f",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "0cd6d130-9cce-4e5b-8b53-655e22abb7d7": {
+            "entity1": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "0e8c5b98-3dcb-4ae8-841a-f528371d83e2": {
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "0ed420f5-400f-4fad-87d7-7d5d16af6cb1": {
+            "entity1": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "115f43a8-185d-4474-ae9e-23382859e129": {
+            "entity1": {
+                "entity": "306e585f-8b4a-4a86-959a-e7129f381364",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "4e6fb00d-2733-4e70-a7e5-5c2c6c279902",
+                "point": 1
+            },
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "type": "points_coincident",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "1829b5be-ba61-437e-b065-10c886c27484": {
+            "entity1": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "fd11cea7-5fc7-4b91-9ec2-de6378abe162",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "1d3270cd-aa1e-4a51-84a9-a438bd444094": {
+            "distance": 20.0,
+            "entity1": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                -3.3443174362182617,
+                0.0,
+                -0.07426328468454813
+            ],
+            "type": "point_distance_horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "21b08291-b097-480d-82f0-b8f207c61a94": {
+            "entity1": {
+                "entity": "a6b0e06e-50ae-4631-910f-0639964f5e5d",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "a6b0e06e-50ae-4631-910f-0639964f5e5d",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "2345d04b-620b-47c9-9d5e-5054a8b999c3": {
+            "entity1": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "eebce6c3-75f1-423d-a628-b115e963d6bd",
+                "point": 1
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "2b83c867-5af7-4b56-9480-0d13a33e4584": {
+            "entity1": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "3081dd0e-e8b2-4c70-b241-97f3c00a315f": {
+            "entity1": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "35185bcf-aa8f-4569-a8d9-4a873ce706ac": {
+            "entity1": {
+                "entity": "1d684a87-dff6-537a-843d-f215b188fde7",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "3db9cd0d-b7f5-446a-824a-36559fbfe8c9": {
+            "entity1": {
+                "entity": "d820ad83-08b3-45e8-94be-b46196f00494",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "d820ad83-08b3-45e8-94be-b46196f00494",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "3f95f637-2ec1-4704-8bee-d6144781df7e": {
+            "entity1": {
+                "entity": "eebce6c3-75f1-423d-a628-b115e963d6bd",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "a8ab3397-c9f0-47cb-b7c2-904c2142d8d0",
+                "point": 1
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "42845acd-c69a-45b0-bb5e-f301e2c98744": {
+            "distance": 1.0,
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "8b7d8a39-5db3-4562-b23e-052fca76ee1d",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                -2.2535998512781177,
+                0.0,
+                0.6395847249931208
+            ],
+            "type": "point_distance_vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "496aacda-97de-43a9-8f2c-ba353984a11d": {
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "3d00050c-4de5-451d-84d2-be3cbf36d33f",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "56825a88-aa3e-4913-8476-2b44f3b253e9": {
+            "entity1": {
+                "entity": "a6b0e06e-50ae-4631-910f-0639964f5e5d",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 1
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "60efe2b0-6e08-4f69-a18f-fb6cfb4cdb90": {
+            "entity1": {
+                "entity": "5a1632ee-0491-5978-8c4f-e1861dc6c60d",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "306e585f-8b4a-4a86-959a-e7129f381364",
+                "point": 1
+            },
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "type": "points_coincident",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "65777bf8-ba7c-4b07-aa66-03532f2bb80a": {
+            "entity1": {
+                "entity": "5d0c5a6b-ee0d-5c14-b47d-c35d18cbd68d",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "306e585f-8b4a-4a86-959a-e7129f381364",
+                "point": 2
+            },
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "type": "points_coincident",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "6d3c4f27-a2e9-43fb-9dfe-f64f41313d78": {
+            "entity1": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "7208574c-2b4d-4238-94a7-6e9e909d2ded": {
+            "distance": 14.7,
+            "entity1": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "point_distance_vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "7893ad0a-7037-4f2b-8bf5-5af7a23b7a36": {
+            "entity1": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "e6d2bf0a-c4de-4e54-9f3f-53cc34523437",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "7ab64df2-0af0-4284-802d-bfa7f54d0a1b": {
+            "entity1": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "7f319b5f-dc84-4ea5-a927-9c40ef0f74c9": {
+            "entity1": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "8271e390-b975-44bf-a7c6-499a6cb6f371": {
+            "entity1": {
+                "entity": "d820ad83-08b3-45e8-94be-b46196f00494",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "a6b0e06e-50ae-4631-910f-0639964f5e5d",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "86b303bc-b437-4aa7-9ba1-1b790df0d05f": {
+            "distance": 1.0,
+            "entity1": {
+                "entity": "39d195ad-1cfc-5845-854a-541160a477b5",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 2
+            },
+            "group": "5c6123e2-1d87-4abc-8713-5d1e6967a07b",
+            "offset": [
+                -1.3684900618641684,
+                -0.021331544021990112,
+                -0.04069233208008427
+            ],
+            "type": "point_distance",
+            "wrkpl": "00000000-0000-0000-0000-000000000000"
+        },
+        "8820c9de-de39-4e5b-943a-10d9db080574": {
+            "entity1": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 2
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "8f6b51c8-8288-4917-84c8-84b1d8b96109": {
+            "entity1": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "9b36ea46-fe00-417e-b7e9-a791e59297ac": {
+            "angle": 30.0,
+            "entity1": "306e585f-8b4a-4a86-959a-e7129f381364",
+            "entity2": "4e6fb00d-2733-4e70-a7e5-5c2c6c279902",
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "measurement": false,
+            "negative": true,
+            "offset": [
+                7.256084235222603,
+                -3.6715929576729227,
+                0.0
+            ],
+            "type": "lines_angle",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "9bb2f7b6-f1b9-4569-895f-92b3e59601b9": {
+            "entity1": {
+                "entity": "fd11cea7-5fc7-4b91-9ec2-de6378abe162",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "8b7d8a39-5db3-4562-b23e-052fca76ee1d",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "a047b750-2c18-45e5-bfbb-88e36df0f4b0": {
+            "entity1": {
+                "entity": "2ddc100f-d4d1-4198-a6fc-8a3db91c855e",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "a13de3ec-66e9-4729-ad79-37deec6e455a": {
+            "entity1": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "fd11cea7-5fc7-4b91-9ec2-de6378abe162",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "a2611e21-50af-416c-9be7-1fc2449c7949": {
+            "entity1": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "df196198-a001-4268-9e25-35147a917cb7",
+                "point": 2
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "aaf61993-38b9-4b9f-8168-c7c56f502edb": {
+            "entity1": {
+                "entity": "e6d2bf0a-c4de-4e54-9f3f-53cc34523437",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "a6b0e06e-50ae-4631-910f-0639964f5e5d",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "b549899a-ec86-487b-b159-0f738c6029c7": {
+            "entity1": {
+                "entity": "fd11cea7-5fc7-4b91-9ec2-de6378abe162",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "fd11cea7-5fc7-4b91-9ec2-de6378abe162",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "b88dc3c5-bb1e-430c-add1-be18c1eab820": {
+            "entity1": {
+                "entity": "5c25d940-fc48-5b17-90bf-40ef3a3daca5",
+                "point": 0
+            },
+            "entity2": {
+                "entity": "5d0c5a6b-ee0d-5c14-b47d-c35d18cbd68d",
+                "point": 1
+            },
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "type": "points_coincident",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "bdbaf017-4dba-4a7f-854f-aadc49b52dd8": {
+            "distance": 1.5,
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "line": "df196198-a001-4268-9e25-35147a917cb7",
+            "measurement": false,
+            "offset": [
+                4.488544464111328,
+                0.0,
+                0.6853656768798828
+            ],
+            "point": {
+                "entity": "a8ab3397-c9f0-47cb-b7c2-904c2142d8d0",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "be816606-6dc5-4aec-a33e-88fa62c5a15f": {
+            "entity1": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "bf93d13b-af2f-4780-a0bc-3c119c3fc77e": {
+            "distance": 20.0,
+            "entity1": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "56c82614-22a0-4382-85a1-0303c22b24bc",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                -2.45196062652477,
+                0.0,
+                -1.0157179871956856
+            ],
+            "type": "point_distance_horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "c1f0373b-c43a-4605-a930-67f77057cfd0": {
+            "entity1": {
+                "entity": "a8ab3397-c9f0-47cb-b7c2-904c2142d8d0",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "df196198-a001-4268-9e25-35147a917cb7",
+                "point": 1
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "c2e0c6e5-9754-407f-a80a-2bbbfadb59db": {
+            "entity1": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "d0c6809b-510e-4316-80af-64720e52ae0b": {
+            "distance": 15.0,
+            "entity1": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "7c6fd410-5229-414f-8923-cb1b15361b0e",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                -2.575338563653705,
+                0.0,
+                -1.7062129189854505
+            ],
+            "type": "point_distance_horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "d1f783e1-a98e-48d1-8a51-42185d73d9da": {
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "a8ab3397-c9f0-47cb-b7c2-904c2142d8d0",
+                "point": 2
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "d99509b3-c089-4ec0-8d28-2bb63e8772f0": {
+            "entity1": {
+                "entity": "e6d2bf0a-c4de-4e54-9f3f-53cc34523437",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "e6d2bf0a-c4de-4e54-9f3f-53cc34523437",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "da5a8f5d-78d3-4bf4-b7c1-3141ed00d293": {
+            "entity1": {
+                "entity": "f782ae87-b433-4015-a53a-a7147d101df3",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "da742930-9668-432c-b939-f93800f395de": {
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "8b7d8a39-5db3-4562-b23e-052fca76ee1d",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "df50d146-3b31-4f86-aae7-701f07875ee7": {
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "line": "3d00050c-4de5-451d-84d2-be3cbf36d33f",
+            "point": {
+                "entity": "eebce6c3-75f1-423d-a628-b115e963d6bd",
+                "point": 2
+            },
+            "type": "point_on_line",
+            "val": 0.651162790697675,
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "e1e7b38a-d258-4af8-8d90-4bb2f02e1516": {
+            "distance": 1.2,
+            "entity1": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "b1785e1b-f50d-41d2-9698-f1da576d9560",
+                "point": 1
+            },
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "offset": [
+                2.753705076818825,
+                0.0,
+                7.4488775671716
+            ],
+            "type": "point_distance_vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "e331335d-210c-4dcd-b242-5b1104c3de93": {
+            "distance": 1.0,
+            "entity1": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "822f7fe4-4c61-4b3d-9bf0-e204f4256554",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                -0.04680061340332031,
+                0.0,
+                -0.6700836858443797
+            ],
+            "type": "point_distance_vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "e9ce9705-0bca-4f15-a203-2317c9f513f4": {
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "entity2": {
+                "entity": "e6d2bf0a-c4de-4e54-9f3f-53cc34523437",
+                "point": 1
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "points_coincident",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "eb7833c7-d238-4353-9c84-eb6eebc395fc": {
+            "entity1": {
+                "entity": "34d3a3fa-6515-519b-afd9-aec8fd490c60",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "4e6fb00d-2733-4e70-a7e5-5c2c6c279902",
+                "point": 2
+            },
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "type": "points_coincident",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "f2629311-cf46-41bf-b595-9c5d5f4804ac": {
+            "distance": 19.0,
+            "entity1": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "331e2e89-0226-4f2e-be82-c32d61798467",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "point_distance_vertical",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "f75d7e6e-15f4-4b60-995f-5acc0b1a98e9": {
+            "entity1": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 1
+            },
+            "entity2": {
+                "entity": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+                "point": 2
+            },
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "horizontal",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        }
+    },
+    "entities": {
+        "2ddc100f-d4d1-4198-a6fc-8a3db91c855e": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                -0.0,
+                14.7
+            ],
+            "p2": [
+                20.0,
+                14.7
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "306e585f-8b4a-4a86-959a-e7129f381364": {
+            "construction": true,
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "name": "",
+            "p1": [
+                14.891122930450889,
+                9.751638727424211
+            ],
+            "p2": [
+                -0.0,
+                -0.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "331e2e89-0226-4f2e-be82-c32d61798467": {
+            "construction": true,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                35.0,
+                -0.0
+            ],
+            "p2": [
+                35.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "3d00050c-4de5-451d-84d2-be3cbf36d33f": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                20.0,
+                14.7
+            ],
+            "p2": [
+                35.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "4e6fb00d-2733-4e70-a7e5-5c2c6c279902": {
+            "construction": true,
+            "group": "88119f81-c49a-4244-b018-b96bd82d68a5",
+            "name": "",
+            "p1": [
+                -0.0,
+                -0.0
+            ],
+            "p2": [
+                17.77191011235955,
+                0.9996054012520876
+            ],
+            "type": "line_2d",
+            "wrkpl": "2315657b-9e85-592f-bcd6-245274d213de"
+        },
+        "56c82614-22a0-4382-85a1-0303c22b24bc": {
+            "construction": true,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                35.0,
+                -0.0
+            ],
+            "p2": [
+                55.0,
+                -0.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "7c6fd410-5229-414f-8923-cb1b15361b0e": {
+            "construction": true,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                20.0,
+                -0.0
+            ],
+            "p2": [
+                35.0,
+                -0.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "822f7fe4-4c61-4b3d-9bf0-e204f4256554": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                -0.0,
+                14.7
+            ],
+            "p2": [
+                -0.0,
+                15.7
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "8b7d8a39-5db3-4562-b23e-052fca76ee1d": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                20.0,
+                15.7
+            ],
+            "p2": [
+                35.0,
+                20.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "982d5e52-6985-44ce-a596-8a88d537aaf8": {
+            "construction": true,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                -0.0,
+                -0.0
+            ],
+            "p2": [
+                20.0,
+                -0.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "a6b0e06e-50ae-4631-910f-0639964f5e5d": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                55.0,
+                20.0
+            ],
+            "p2": [
+                55.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "a8ab3397-c9f0-47cb-b7c2-904c2142d8d0": {
+            "construction": false,
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "name": "",
+            "p1": [
+                29.767441860465134,
+                17.500000000000004
+            ],
+            "p2": [
+                35.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "b1785e1b-f50d-41d2-9698-f1da576d9560": {
+            "construction": false,
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "name": "",
+            "p1": [
+                55.0,
+                19.0
+            ],
+            "p2": [
+                55.0,
+                17.8
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "d820ad83-08b3-45e8-94be-b46196f00494": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                35.0,
+                20.0
+            ],
+            "p2": [
+                55.0,
+                20.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "df196198-a001-4268-9e25-35147a917cb7": {
+            "construction": false,
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "name": "",
+            "p1": [
+                35.0,
+                19.0
+            ],
+            "p2": [
+                55.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "e6d2bf0a-c4de-4e54-9f3f-53cc34523437": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                35.0,
+                19.0
+            ],
+            "p2": [
+                55.0,
+                19.0
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "eebce6c3-75f1-423d-a628-b115e963d6bd": {
+            "construction": false,
+            "group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "name": "",
+            "p1": [
+                55.0,
+                17.8
+            ],
+            "p2": [
+                29.767441860465134,
+                17.500000000000004
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "f782ae87-b433-4015-a53a-a7147d101df3": {
+            "construction": true,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                -0.0,
+                -0.0
+            ],
+            "p2": [
+                -0.0,
+                14.7
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "fd11cea7-5fc7-4b91-9ec2-de6378abe162": {
+            "construction": false,
+            "group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "name": "",
+            "p1": [
+                -0.0,
+                15.7
+            ],
+            "p2": [
+                20.0,
+                15.7
+            ],
+            "type": "line_2d",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        }
+    },
+    "groups": {
+        "0a0fc2ae-f172-47bc-9817-b6ba277b1317": {
+            "active_wrkpl": "00000000-0000-0000-0000-000000000000",
+            "body": null,
+            "index": 2,
+            "name": "Lathe  - body",
+            "normal": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+            "operation": "union",
+            "origin": "982d5e52-6985-44ce-a596-8a88d537aaf8",
+            "origin_point": 1,
+            "source_group": "b4a7a32e-c705-4068-ad75-6a659c821863",
+            "type": "lathe",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "11c1b89e-1d06-467b-a6a1-a80d1a5a6461": {
+            "active_wrkpl": "00000000-0000-0000-0000-000000000000",
+            "body": {
+                "color": null,
+                "name": "Body"
+            },
+            "index": 0,
+            "name": "Reference",
+            "show_xy": true,
+            "show_yz": true,
+            "show_zx": true,
+            "type": "reference",
+            "xy_size": [
+                10.0,
+                10.0
+            ],
+            "yz_size": [
+                10.0,
+                10.0
+            ],
+            "zx_size": [
+                10.0,
+                10.0
+            ]
+        },
+        "5c6123e2-1d87-4abc-8713-5d1e6967a07b": {
+            "active_wrkpl": "2315657b-9e85-592f-bcd6-245274d213de",
+            "angle": 3.219287470997669,
+            "body": null,
+            "index": 15,
+            "mode": "single",
+            "name": "Revolve 1",
+            "normal": "56c82614-22a0-4382-85a1-0303c22b24bc",
+            "operation": "union",
+            "origin": "56c82614-22a0-4382-85a1-0303c22b24bc",
+            "origin_point": 1,
+            "source_group": "a702eb60-3e88-47c2-b505-279b7a5501c0",
+            "type": "revolve",
+            "wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7"
+        },
+        "88119f81-c49a-4244-b018-b96bd82d68a5": {
+            "active_wrkpl": "2315657b-9e85-592f-bcd6-245274d213de",
+            "body": null,
+            "center": [
+                0.0,
+                0.0
+            ],
+            "count": 12,
+            "delta_angle": 29.99999999999997,
+            "index": 16,
+            "name": "Polar array 1",
+            "offset": "zero",
+            "offset_angle": 0.0,
+            "source_group": "5c6123e2-1d87-4abc-8713-5d1e6967a07b",
+            "type": "polar_array"
+        },
+        "a702eb60-3e88-47c2-b505-279b7a5501c0": {
+            "active_wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7",
+            "body": null,
+            "index": 11,
+            "name": "Sketch - upper brackets",
+            "type": "sketch"
+        },
+        "b4a7a32e-c705-4068-ad75-6a659c821863": {
+            "active_wrkpl": "1d684a87-dff6-537a-843d-f215b188fde7",
+            "body": null,
+            "index": 1,
+            "name": "Sketch - body",
+            "type": "sketch"
+        }
+    },
+    "type": "document",
+    "version": 23
+}
